@@ -1,6 +1,7 @@
 CLOTH ARMOUR 
 
-Just gather fiber as soon as you land and craft your armour and in just a few seconds you are almost invincible.
+Just gather fiber as soon as you land, craft your armour and in just a few seconds you are almost invincible.
+The downside to this mod is that the cloth armour is easily damaged, so you will need to repair it quite often.
 Make sure to add this mod last to ensure that the changes do not get overridden by other mods or updates.
 
 Extra 12 backpack slots
