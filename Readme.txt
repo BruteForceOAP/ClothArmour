@@ -1,6 +1,7 @@
 CLOTH ARMOUR 
 
 Just gather fiber as soon as you land and craft your armour and in just a few seconds you are almost invincible.
+Make sure to add this mod last to ensure that the changes do not get overridden by other mods or updates.
 
 Extra 12 backpack slots
 Weight Capacity +2,000kg
