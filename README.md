@@ -1,6 +1,6 @@
-# ClothArmour
-Icarus mod for cloth armour
-Mod for cloth armour to make you almost invincible.
+CLOTH ARMOUR 
+
+Just gather fiber as soon as you land and craft your armour and in just a few seconds you are almost invincible.
 
 Extra 12 backpack slots
 Weight Capacity +2,000kg
